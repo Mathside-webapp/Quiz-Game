@@ -11,3 +11,5 @@ The illustration set consists of five separately generated PNG originals: univer
 The reference's playable game buttons are intentionally replaced with Coming soon / Explore because no approved game mechanics were supplied. The demonstration supports a clearly labeled quiz rehearsal, not a racing, siege or tug engine.
 
 Future production stage: Supabase Auth, PostgreSQL owner-scoped quiz persistence, private Storage, authorized Realtime sessions, additional question formats and mathematics rendering. None of these integrations is claimed by the local preview.
+
+Revision: all workspace panels, controls, tables and dialogs use the dark cosmic palette requested in user feedback.
