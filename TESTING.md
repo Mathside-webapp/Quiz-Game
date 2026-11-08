@@ -10,3 +10,5 @@ Passed in headless Chromium using the preinstalled Python Playwright package:
 - JavaScript syntax check passed.
 
 Desktop landing screenshot inspected visually; PNG artwork inspected from generation output. No backend, account permissions, realtime participation or actual game engines are present or tested. Safari, Firefox and physical projector use are not verified.
+
+Dark theme update: browser smoke suite passed again after replacing light panels, inputs, tables and dialogs with cosmic navy surfaces.
